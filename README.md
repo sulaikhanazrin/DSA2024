@@ -48,3 +48,19 @@ Name: SULAIKHA NAZRIN, E-mail - sulaikhanazrin@gmail.com , linkedin : [sulaikhan
 ### 11.GOOGLE COLAB
 a cloud-based platform that allows you to write and execute Python code in a web-based notebook environment.
 * You can create notebooks that combine code, text, images, and visualizations, making it easy to document your work and share it with others.
+# DATE 29/10/24 
+### 12.PROJECT MANAGEMENT
+* Learned some thoretical basis of project work and how you should do it.
+* term AGILE is learned.
+### 13.AGILE METHODOLOGY
+*t's an iterative process that breaks projects into phases, or sprints, and involves continuous feedback and reflection.
+### 14.JIRA
+* project management tool that helps to assign agile methodology.
+* learned what is epic,story,task and issue.
+* leanred how these are doing in jira as a team work frame.
+### 15.SCRUM
+* learned from jira
+* framework where devolopers,product owner,testers,QAs are having meeting and working together to get fast and better results.
+
+
+
