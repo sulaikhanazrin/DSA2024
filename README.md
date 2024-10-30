@@ -107,10 +107,7 @@ a cloud-based platform that allows you to write and execute Python code in a web
 * feature engineering
 * predictive and modelling
 * data visualisation
-* 
 
-
-* 
 
 
 
