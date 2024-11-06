@@ -4,13 +4,19 @@
 * a Gaussian curve (or bell curve) represents how data points are distributed around an average (mean) value.
 *  The Gaussian curve is bell-shaped, meaning most of the data points gather around the center (mean), with fewer points as you move further away on either side.
 *  A Gaussian curve is symmetric. This means the data on the left side of the mean is a mirror image of the data on the right side.
+  ![image](https://github.com/user-attachments/assets/69cd9da5-1bbc-4723-9713-ea6be09e14d8)
+
 ### normal distribution
 * describing how data values are spread around an average (mean) value in a symmetric, bell-shaped curve.
 * The "width" or "spread" of the distribution is determined by the standard deviation, 
 A small standard deviation creates a narrow curve, meaning data points are close to the mean.
 A large standard deviation creates a wider curve, indicating data points are more spread out.
+![image](https://github.com/user-attachments/assets/072c7646-49d2-401c-86e9-51e740a9f486)
+
 ### sampling purpose
 * Sampling is the process of selecting a subset of individuals, items, or data points from a larger population to make inferences or draw conclusions about that population. Instead of examining every single element, which may be time-consuming, costly, or impractical.
+  ![image](https://github.com/user-attachments/assets/1cd973bb-00fe-44db-be61-95cd9f0c117c)
+
 ### sample size
 * Sample size refers to the number of individual observations, data points, or participants selected from a larger population for analysis in a study.
 ### central limit theorem
