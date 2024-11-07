@@ -21,4 +21,29 @@
 #### Variance
 * The average of all squared deviations from the mean. 
 #### Coefficient of variation
-* A relative measure of dispersion that compares the variability of two data sets with different units. It's usually expressed as a proportion. 
+* A relative measure of dispersion that compares the variability of two data sets with different units. It's usually expressed as a proportion.
+#### cumulative sum
+* A cumulative sum, also known as a running total, is the total sum of data that increases over time or through any other series.
+#### PDF AND CDF
+* A PDF describes the probability that a random variable will take on a specific value. It shows the probability density at specific points.
+* A CDF describes the probability that a random variable will be less than or equal to a certain value.
+* ranges from 0 to 1
+#### Correlation in excel
+* Correlation is a statistical measure that expresses the extent to which two variables are linearly related.
+#### MinMax scaling
+* shrinks the data within the given range, usually of 0 to 1
+* It scales the values to a specific value range without changing the shape of the original distribution.
+#### bivariate analysis
+* Bivariate analysis is one of the simplest forms of quantitative analysis. It involves the analysis of two variables, for the purpose of determining relationship between them
+#### outliers
+![image](https://github.com/user-attachments/assets/d7f2087f-e6db-4764-bef2-7eb574157776)
+![image](https://github.com/user-attachments/assets/d75961eb-4de0-4531-a8c9-c8c06cbbc19f)
+
+
+#### finding outliers using quartlers
+![image](https://github.com/user-attachments/assets/a9a028ec-3fd7-4958-8a95-30f165f99a22)
+
+
+#### P VALUE
+![image](https://github.com/user-attachments/assets/3e37051a-207c-4960-a361-477a661d81cd)
+
