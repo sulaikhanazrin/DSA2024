@@ -14,7 +14,9 @@
 
 #### GAUSSIAN PROPERTIES
 #### INEQUALITY
+* Inequalities can be used to write an inequality that shows where the population mean or proportion is likely to be, based on a mean or proportion found from a sample.
 #### CLASSIFIER
+* an algorithm that implements classification, which is the process of assigning new data to specific classes
 #### BERNOULLI DISTRIBUTION
 #### COVARIANCE
 #### SCIPY
