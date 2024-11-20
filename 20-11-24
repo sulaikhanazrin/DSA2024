@@ -32,4 +32,5 @@ excel in handling large volume of diverse data with rapid scalability needs.
         query excecuter-DB-results
 ### IMDB dataset
 * website owned by amazon.com
-* 
+### in sql the LOGICAL OPERATORS:
+* AND, OR, NOT, ALL, ANY, BETWEEN, EXIST, IN , LIKE, SOME
