@@ -1,0 +1,35 @@
+### Data base
+* alternatives: CSV files, Text file, excel file are all flat files
+* use a technique called indexing with simple and easy to use language clled SQL. to acheive the result faster.
+* data base backup data at multiple places to increase relability.
+eg of data base : Oracle,SQL, SQL server.
+### relational and non relational data base
+* tradistional DBs 
+* stores data with structerd tables with rows and columns.
+### non relational
+* eg: mongoDB
+often called No SQL.
+format like document,graphs,less structured
+* relational databases are ideal for highly structured data with complex quires,while non relational databases
+excel in handling large volume of diverse data with rapid scalability needs.
+#### Tbales
+* i relational - stored in multiple tables.
+### MySQL
+* structured Query Language
+* from 1970"s from IBM.
+* CRUD
+     Create
+     read
+     update
+     delete
+* domain specific language, not a general purpose programming language, like creating web/mobile apps.
+* SQL is declarative programming language.
+## Executioon of an MySQL statement:
+* the execution is on follows
+* SQL - parser, compiler
+        * parser: try to understand query
+        * compiler: query optimiser,and generate code
+        query excecuter-DB-results
+### IMDB dataset
+* website owned by amazon.com
+* 
